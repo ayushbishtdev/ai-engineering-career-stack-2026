@@ -1,0 +1,8 @@
+Role,Base_Salary_Low,Base_Salary_High,Median_Salary,Mandatory_Toolchains,Best_On_Ramp
+Applied AI Engineer,$145,000,$269,611,$173,482,"RAG, MCP, Multi-agent orchestration",Software Engineering
+AI Evals Engineer,$150,000,$250,000,$173,482,"LangSmith, Braintrust, Phoenix/Arize, Langfuse, Maxim AI",QA / Data Science
+Context Engineer,$150,000,$250,000,N/A,"Vector DBs, Semantic Retrieval",Prompt / RAG Work
+AI Red Team Engineer,$130,000,$300,000+,N/A,"garak, PyRIT, promptfoo, OWASP LLM Top 10, MITRE ATLAS",Offensive Security
+AI Reliability Engineer,$155,000,$275,000,N/A,"Langfuse, Datadog LLM Observability, Arize Phoenix",SRE / DevOps
+LLMOps Engineer,$150,000,$280,000,N/A,"CI/CD for LLMs, Prompt Versioning",DevOps / MLOps
+Forward Deployed Engineer (FDE),N/A,$270,000+,N/A,"Enterprise data integration, Corporate stakeholder communication",Software Engineering
